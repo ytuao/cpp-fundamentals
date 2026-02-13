@@ -3,13 +3,19 @@
 
 using namespace std;
 
-/* *    *    *
+/* 
+   *    *    *
    **   **   **
    ***  ***  ***
    **** **** ****
    ***************
 
-   In order to print the above pattern, we may need 4 loops: 1 controls the number of rows, 1 controls the number of * in each row, 1 controls the the number of spaces in each row, and 1 controls the number of triangles. 
+   In order to print the above pattern, we may need 4 loops: 
+   1 controls the number of rows, 
+   1 controls the number of * in each row, 
+   1 controls the the number of spaces in each row, 
+   and 1 controls the number of triangles. 
+   
 */
 
 int main() {
